@@ -1,5 +1,7 @@
 {
   "data": [
+    "Boots of Speed",
+    "Ionian Boots of Lucidity",
     "Sapphire Crystal",
     "Sheen",
     "Amplifying Tome",
@@ -7,17 +9,17 @@
     "Blasting Wand",
     "Lich Bane",
     "Amplifying Tome",
-    "Fiendish Codex",
-    "Null-Magic Mantle",
-    "Negatron Cloak",
-    "Amplifying Tome",
-    "Abyssal Scepter",
-    "Amplifying Tome",
     "Amplifying Tome",
     "Hextech Revolver",
     "Ruby Crystal",
     "Kindlegem",
     "Hextech Protobelt-01",
+    "Amplifying Tome",
+    "Fiendish Codex",
+    "Null-Magic Mantle",
+    "Negatron Cloak",
+    "Amplifying Tome",
+    "Abyssal Scepter",
     "Cloth Armor",
     "Amplifying Tome",
     "Cloth Armor",
@@ -28,9 +30,6 @@
     "Blasting Wand",
     "Needlessly Large Rod",
     "Amplifying Tome",
-    "Rabadon's Deathcap",
-    "Blasting Wand",
-    "Amplifying Tome",
-    "Void Staff"
+    "Rabadon's Deathcap"
   ]
 }

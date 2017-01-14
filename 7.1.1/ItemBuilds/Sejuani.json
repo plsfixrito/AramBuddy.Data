@@ -1,5 +1,8 @@
 {
   "data": [
+    "Boots of Speed",
+    "Null-Magic Mantle",
+    "Mercury's Treads",
     "Cloth Armor",
     "Chain Vest",
     "Ruby Crystal",
@@ -17,12 +20,6 @@
     "Null-Magic Mantle",
     "Negatron Cloak",
     "Banshee's Veil",
-    "Amplifying Tome",
-    "Fiendish Codex",
-    "Null-Magic Mantle",
-    "Negatron Cloak",
-    "Amplifying Tome",
-    "Abyssal Scepter",
     "Ruby Crystal",
     "Giant's Belt",
     "Ruby Crystal",
@@ -31,10 +28,11 @@
     "Rejuvenation Bead",
     "Crystalline Bracer",
     "Warmog's Armor",
-    "Ruby Crystal",
     "Amplifying Tome",
-    "Haunting Guise",
-    "Blasting Wand",
-    "Liandry's Torment"
+    "Fiendish Codex",
+    "Null-Magic Mantle",
+    "Negatron Cloak",
+    "Amplifying Tome",
+    "Abyssal Scepter"
   ]
 }
